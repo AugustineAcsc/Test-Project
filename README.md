@@ -19,3 +19,5 @@ A test project for playing with github within this repo
 [Edward P.](https://github.com/ejprok)
 
 >>>>>>> 9772cc1c45ad0b73c40c058810a3176a089d6e35
+
+[Tara R] (https://github.com/tararosss)
