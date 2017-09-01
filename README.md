@@ -12,10 +12,15 @@ A test project for playing with github within this repo
 
 [Edward P.](https://github.com/ejprok)
 
-[Travis Keri](https://github.com/traviskeri)
+[Luke M.](https://github.com/DarkOhms)
 
 [Anand M.](https://github.com/AnandMasurkar)
 
+[Travis Keri](https://github.com/traviskeri)
+
 [Nolan R](https://github.com/danolanater)
 
-[Tara R] (https://github.com/tararosss)
+[Tara R](https://github.com/tararosss)
+
+[Alex Houy](https://github.com/imole209)
+
