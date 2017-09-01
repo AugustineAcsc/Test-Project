@@ -10,13 +10,14 @@ A test project for playing with github within this repo
 
 [Swapnil P.](https://github.com/swap357)
 
-
 [Edward P.](https://github.com/ejprok)
 
 [Luke M.](https://github.com/DarkOhms)
 
 [Anand M.](https://github.com/AnandMasurkar)
 
-[Edward P.](https://github.com/ejprok)
+[Travis Keri](https://github.com/traviskeri)
 
+[Anand M.](https://github.com/AnandMasurkar)
 
+[Tara R](https://github.com/tararosss)
