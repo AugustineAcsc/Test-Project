@@ -16,6 +16,7 @@ A test project for playing with github within this repo
 
 [Anand M.](https://github.com/AnandMasurkar)s
 
-[Edward P.](https://github.com/ejprok)
-
 [Nolan R](https://github.com/danolanater)
+
+[Tara R] (https://github.com/tararosss)
+
