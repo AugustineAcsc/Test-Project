@@ -14,9 +14,8 @@ A test project for playing with github within this repo
 
 [Travis Keri](https://github.com/traviskeri)
 
-[Anand M.](https://github.com/AnandMasurkar)s
+[Anand M.](https://github.com/AnandMasurkar)
 
 [Nolan R](https://github.com/danolanater)
 
 [Tara R] (https://github.com/tararosss)
-
