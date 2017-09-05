@@ -24,3 +24,4 @@ A test project for playing with github within this repo
 
 [Alex Houy](https://github.com/imole209)
 
+[Nick R](https://github.com/ryanrentschler)
