@@ -37,4 +37,8 @@ A test project for playing with github within this repo
 
 [Adrian D](https://github.com/adavid3)
 
+[Robert F](https://github.com/robertfcsus)
+
+[Cecilia D](https://github.com/CeciliaDominguez)
+
 
