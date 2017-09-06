@@ -6,13 +6,15 @@ A test project for playing with github within this repo
 
 [Daryl P](https://github.com/darylposnett)
 
-GROUP 1-
+**GROUP 1**
+-
 
 [Swapnil P.](https://github.com/swap357)
 
 [Anand M.](https://github.com/AnandMasurkar)
 
-GROUP 2
+**GROUP 2**
+-
 
 [Edward P.](https://github.com/ejprok)
 
@@ -26,7 +28,8 @@ GROUP 2
 
 [Nick R](https://github.com/ryanrentschler)
 
-GROUP 3-
+**GROUP 3**
+-
 
 [Hugo T.](https://github.com/hugotavares225)
 
