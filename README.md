@@ -22,6 +22,8 @@ A test project for playing with github within this repo
 
 [Tara R](https://github.com/tararosss)
 
+[Adrian D](https://github.com/adavid3)
+
 [Alex Houy](https://github.com/imole209)
 
 [Nick R](https://github.com/ryanrentschler)
