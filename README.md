@@ -6,14 +6,22 @@ A test project for playing with github within this repo
 
 [Daryl P](https://github.com/darylposnett)
 
-**GROUP 1**
+**Group 1 : Friday**
 -
 
 [Swapnil P.](https://github.com/swap357)
 
 [Anand M.](https://github.com/AnandMasurkar)
 
-[Neha Vij] (https://github.com/nehavij)
+[Neha V.](https://github.com/nehavij)
+
+Parker M.
+
+Angelica
+
+Vithya
+
+
 
 **GROUP 2**
 -
