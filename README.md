@@ -13,6 +13,8 @@ A test project for playing with github within this repo
 
 [Anand M.](https://github.com/AnandMasurkar)
 
+[Neha Vij] (https://github.com/nehavij)
+
 **GROUP 2**
 -
 
