@@ -4,6 +4,8 @@ A test project for playing with github within this repo
 
 # Course Participants
 
+# Your Instrutor for this course;
+
 [Daryl P](https://github.com/darylposnett)
 
 **Group 1 : Friday**
