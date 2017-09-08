@@ -23,7 +23,7 @@ Vithya
 
 
 
-**GROUP 2**
+**GROUP 2: Team Tux**
 -
 
 [Edward P.](https://github.com/ejprok)
