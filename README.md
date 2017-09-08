@@ -15,7 +15,7 @@ A test project for playing with github within this repo
 
 [Neha V.](https://github.com/nehavij)
 
-Parker M.
+[Parker M](https://github.com/ParkerMartinez)
 
 Angelica
 
