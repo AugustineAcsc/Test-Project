@@ -21,7 +21,7 @@ A test project for playing with github within this repo
 
 Angelica
 
-Vithya
+[Vidhya M](https://github.com/Vithyaratnam)
 
 
 
