@@ -40,7 +40,7 @@ Angelica
 
 [Nick R](https://github.com/ryanrentschler)
 
-**GROUP 3**
+**GROUP 3: Pink Unicorns**
 -
 
 [Hugo T.](https://github.com/hugotavares225)
