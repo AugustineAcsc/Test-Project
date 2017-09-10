@@ -40,7 +40,7 @@ Angelica
 
 [Nick R](https://github.com/ryanrentschler)
 
-[**GROUP 3: Pink Unicorns**](https://join.slack.com/t/csc131team3/shared_invite/MjM4MzE0NDMzNzE1LTE1MDQ4OTM0MTEtZTg1MjRkNTIyYQ)
+[**GROUP 3: Team Gucci**](https://join.slack.com/t/csc131team3/shared_invite/MjM4MzE0NDMzNzE1LTE1MDQ4OTM0MTEtZTg1MjRkNTIyYQ)
 -
 
 [Hugo T.](https://github.com/hugotavares225)
