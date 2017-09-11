@@ -19,7 +19,7 @@ A test project for playing with github within this repo
 
 [Parker M](https://github.com/ParkerMartinez)
 
-Angelica
+[Angelica](https://github.com/angelse)
 
 [Vidhya M](https://github.com/Vithyaratnam)
 
@@ -54,6 +54,6 @@ Angelica
 [Cecilia D](https://github.com/CeciliaDominguez)
 
 [Augustine A](https://github.com/AugustineAcsc)
- 
+
 [GROUP 3 MEMBERS CLICK HERE TO JOIN SLACK SO WE CAN  ALL COMMUNICATE](https://join.slack.com/t/csc131team3/shared_invite/MjM4MzE0NDMzNzE1LTE1MDQ4OTM0MTEtZTg1MjRkNTIyYQ)
 
